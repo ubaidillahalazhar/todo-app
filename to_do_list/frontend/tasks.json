@@ -1,0 +1,26 @@
+{
+    "daily": [
+        {
+            "text": "jgjf",
+            "deadline": "2025-07-08",
+            "priority": "medium"
+        },
+        {
+            "text": "uygu",
+            "deadline": "2025-07-07",
+            "priority": "low"
+        }
+    ],
+    "weekly": [
+        {
+            "text": "mhgf,j",
+            "deadline": "2025-07-08",
+            "priority": "medium"
+        },
+        {
+            "text": "hytrku",
+            "deadline": "2025-07-08",
+            "priority": "medium"
+        }
+    ]
+}
